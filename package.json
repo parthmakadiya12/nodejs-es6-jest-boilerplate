@@ -1,0 +1,24 @@
+{
+  "name": "node_env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "keywords": [
+    "nodejs",
+    "boilerplate",
+    "playground",
+    "es6"
+  ],
+  "author": "Parth Makadiya",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/preset-env": "^7.8.3",
+    "babel-jest": "^25.1.0",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^25.1.0"
+  }
+}
